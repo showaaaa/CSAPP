@@ -1,0 +1,27 @@
+telnet 192.168.3.131 54345
+GET http://www.zhihu.com HTTP/1.1
+GET http://www.baidu.com HTTP/1.1
+GET http://www.cmu.edu/hub/index.html HTTP/1.1
+GET http://www.cmu.edu HTTP/1.1
+GET https://baike.baidu.com/item/ss/4066859 HTTP/1.1
+http://www.cmu.edu/hub/index.html
+GET https://www.runoob.com/json/json-syntax.html HTTP/1.1
+GET http://csapp.cs.cmu.edu/3e/labs.html HTTP/1.1
+GET http://csapp.cs.cmu.edu/ HTTP/1.1
+GET http://www.jianshu.com/p/8c4bfc9e3d3b HTTP/1.1
+
+1. tryreadwritelock & timestamp for part 3 和异常行为
+https://www.jianshu.com/p/a501d0c2f131?u_atoken=fefc630e-3c4e-47a6-8651-05a62f3f5239&u_asession=01K-CAgjPkZTWe88jylnmrm_F2q7A_N7mqooNw0hUwS5Ng2YybNotJSmPiZleNuqWjX0KNBwm7Lovlpxjd_P_q4JsKWYrT3W_NKPr8w6oU7K_GuudAYxga-NbAaeN_qjbZS_nntv0fnCqKMMYW1x5qJGBkFo3NEHBv0PZUm6pbxQU&u_asig=05oMTEtiyDfGac8z8D-HX9R89msIgmEAGv3SNVF6heSv-jRiuhRb2fCxea3NMK6wZ3qs-A7ND-C2FmTsBmf01FzGYfPePYzbiOsMM6MAYH97NNqpCcaX8B4s8Tl8-jSexwcaojPJ-HMx0zpIJCXa07PrYYEoDC1xoWCm46KHBPl5f9JS7q8ZD7Xtz2Ly-b0kmuyAKRFSVJkkdwVUnyHAIJzWPSU1-CRUM9vJu3p4irFimuX_jTpZPs11z1kKsogO4O4Nx7nJyT20ni5onZOBbfUe3h9VXwMyh6PgyDIVSG1W-l9TmZ8aWlC3H34gOhvci1vDlkwVJEHAaK4HS28PdrGN6YUG97LcHLNmRLHPjLPAOKu0n0Hv1knVivJGCYeMm9mWspDxyAEEo4kbsryBKb9Q&u_aref=Eijn9Dd0lMlUIcYL0gS%2B7yggdNM%3D
+
+2. tryreadwritelock for part 3 和异常行为
+https://blog.csdn.net/chen_yd_/article/details/113344150
+
+3. vk bilibili for part 2
+
+4.读写锁
+http://c.biancheng.net/view/8635.html
+
+5.ethanyzf
+https://blog.csdn.net/u012336567/article/details/52056089
+
+/Users/CSAPP_LAB/CSAPP-Labs/yzf-proxylab-handout-3e
